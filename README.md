@@ -1,4 +1,4 @@
-# MentalHeath-InTech
+# MentalHealth-InTech
 Explorando dados a respeito de saúde mental na área de tecnologia
 
 Base de dados inicial:
